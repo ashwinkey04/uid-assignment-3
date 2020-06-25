@@ -1,5 +1,5 @@
 # UID Assignment 3
-[Click here](https://ashwinkey04.github.io/uid-assignment-3) to visit live site hosted using github pages with :heart:
+[Click here](https://ashwinkey04.github.io/uid-project/) to visit live site hosted using github pages with :heart:
 
 ## Screenshots
 ### Added in phase 2: :sparkles: :sparkles:
